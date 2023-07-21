@@ -1,0 +1,87 @@
+# Copyright (C) 2020 Strategy11
+# This file is distributed under the same license as the Formidable Zapier plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Formidable Zapier 2.01\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/formidable-zapier\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-09-14T19:09:49+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.1.0\n"
+"X-Domain: frmzap\n"
+
+#. Plugin Name of the plugin
+msgid "Formidable Zapier"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://formidablepro.com/knowledgebase/formidable-zapier/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Integrate with everything through Zapier"
+msgstr ""
+
+#. Author of the plugin
+msgid "Strategy11"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://strategy11.com"
+msgstr ""
+
+#: models/FrmZapAction.php:14
+msgid "Send to Zapier"
+msgstr ""
+
+#: models/FrmZapAction.php:17
+msgid "Zapier"
+msgstr ""
+
+#: controllers/FrmZapAppController.php:172
+msgid "Formidable WebHooks"
+msgstr ""
+
+#: controllers/FrmZapAppController.php:179
+msgid "WebHooks"
+msgstr ""
+
+#: controllers/FrmZapAppController.php:180
+msgid "WebHook"
+msgstr ""
+
+#: controllers/FrmZapAppController.php:184
+msgid "No WebHooks Found."
+msgstr ""
+
+#: controllers/FrmZapAppController.php:185
+msgid "Add New WebHookp"
+msgstr ""
+
+#: controllers/FrmZapAppController.php:186
+msgid "Edit WebHook"
+msgstr ""
+
+#: controllers/FrmZapAppController.php:205
+msgid "You are running an outdated version of Formidable. This plugin needs Formidable v3.0+ to work correctly."
+msgstr ""
+
+#: views/action-settings/zapier_options.php:4
+msgid "Zapier WebHook URL"
+msgstr ""
+
+#: views/action-settings/zapier_options.php:9
+msgid "Form actions can be set up in Zapier"
+msgstr ""
+
+#: views/action-settings/zapier_options.php:12
+msgid "Get WebHook URL"
+msgstr ""
+
+#: views/action-settings/zapier_options.php:16
+msgid "Edit Zap"
+msgstr ""

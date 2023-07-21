@@ -1,0 +1,294 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SiteGround Central\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-22 09:03+0000\n"
+"PO-Revision-Date: 2023-03-13 15:02+0000\n"
+"Last-Translator: \n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.1.1\n"
+"X-Domain: siteground-wizard"
+
+#: core/Wizard/config/AIWizard.php:23 core/Wizard/config/DefaultWizard.php:27
+msgid "Art & Design"
+msgstr "Conception d'art"
+
+#: core/Wizard/config/AIWizard.php:83 core/Wizard/config/AIWizard.php:101
+#: core/Wizard/config/DefaultWizard.php:108
+#: core/Wizard/config/DefaultWizard.php:129 core/Wizard/config/EddWizard.php:45
+#: core/Wizard/config/EddWizard.php:63 core/Wizard/config/WooWizard.php:51
+#: core/Wizard/config/WooWizard.php:69
+msgid "Check your website on it's domain."
+msgstr "Vérifiez votre site Web sur son domaine."
+
+#: core/Wizard/config/AIWizard.php:55 core/Wizard/config/DefaultWizard.php:64
+#: core/Wizard/config/WooWizard.php:21
+msgid "Choose a fancy design for your website!"
+msgstr "Choisissez un design sophistiqué pour votre site Web !"
+
+#: core/Wizard/config/AIWizard.php:65 core/Wizard/config/DefaultWizard.php:78
+#: core/Wizard/config/EddWizard.php:23 core/Wizard/config/WooWizard.php:32
+msgid ""
+"Choose plugins for your WordPress site that enable the functionality you "
+"wish to have"
+msgstr ""
+"Choisissez des plugins pour votre site WordPress qui activent la "
+"fonctionnalité que vous souhaitez avoir"
+
+#: core/Wizard/config/AIWizard.php:71 core/Wizard/config/DefaultWizard.php:89
+#: core/Wizard/config/EddWizard.php:31 core/Wizard/config/WooWizard.php:39
+msgid "Complete"
+msgstr "Complet"
+
+#: core/Wizard/config/AIWizard.php:78 core/Wizard/config/DefaultWizard.php:101
+#: core/Wizard/config/EddWizard.php:40 core/Wizard/config/WooWizard.php:46
+msgid "Congrats! Your site is ready!"
+msgstr "Bravo! Votre site est prêt !"
+
+#: core/Wizard/config/AIWizard.php:53 core/Wizard/config/AIWizard.php:62
+#: core/Wizard/config/DefaultWizard.php:62
+#: core/Wizard/config/DefaultWizard.php:75 core/Wizard/config/EddWizard.php:20
+#: core/Wizard/config/WooWizard.php:19 core/Wizard/config/WooWizard.php:29
+msgid "Continue"
+msgstr "Continuer"
+
+#: core/Wizard/config/AIWizard.php:28 core/Wizard/config/DefaultWizard.php:32
+msgid "Fashion & Beauty"
+msgstr "Fashion beauté"
+
+#: core/Wizard/config/AIWizard.php:88 core/Wizard/config/AIWizard.php:106
+#: core/Wizard/config/DefaultWizard.php:113
+#: core/Wizard/config/DefaultWizard.php:134 core/Wizard/config/EddWizard.php:50
+#: core/Wizard/config/EddWizard.php:68 core/Wizard/config/WooWizard.php:56
+#: core/Wizard/config/WooWizard.php:74
+msgid "Go to WordPress admin to manage your content and more."
+msgstr ""
+"Accédez à l'administrateur WordPress pour gérer votre contenu et plus encore."
+
+#: core/Wizard/config/AIWizard.php:74 core/Wizard/config/DefaultWizard.php:92
+#: core/Wizard/config/EddWizard.php:34 core/Wizard/config/WooWizard.php:42
+msgid ""
+"Good thing about WordPress is that you can automate part of your marketing "
+"via plugins."
+msgstr ""
+"La bonne chose à propos de WordPress est que vous pouvez automatiser une "
+"partie de votre marketing via des plugins."
+
+#: core/Wizard/config/AIWizard.php:22 core/Wizard/config/DefaultWizard.php:26
+msgid "Health & Fitness"
+msgstr "Santé et Forme"
+
+#. URI of the plugin
+msgid "https://siteground.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.siteground.com"
+msgstr ""
+
+#: core/Wizard/config/AIWizard.php:40 core/Wizard/config/DefaultWizard.php:48
+msgid "Let us build your website"
+msgstr "Laissez-nous construire votre site web"
+
+#: core/Wizard/config/AIWizard.php:73 core/Wizard/config/DefaultWizard.php:91
+#: core/Wizard/config/EddWizard.php:33 core/Wizard/config/WooWizard.php:41
+msgid "Let's talk about marketing!"
+msgstr "Parlons marketing !"
+
+#: core/Wizard/config/AIWizard.php:87 core/Wizard/config/AIWizard.php:105
+#: core/Wizard/config/DefaultWizard.php:112
+#: core/Wizard/config/DefaultWizard.php:133 core/Wizard/config/EddWizard.php:49
+#: core/Wizard/config/EddWizard.php:67 core/Wizard/config/WooWizard.php:55
+#: core/Wizard/config/WooWizard.php:73
+msgid "Manage site"
+msgstr "Gérer le site"
+
+#: core/Wizard/config/AIWizard.php:29 core/Wizard/config/DefaultWizard.php:33
+msgid "Other"
+msgstr "Autre"
+
+#: core/Wizard/config/AIWizard.php:41 core/Wizard/config/DefaultWizard.php:49
+msgid ""
+"Our powerful AI tool builds your site and generates unique content, adapted "
+"to your project."
+msgstr ""
+"Notre puissant outil d'IA construit votre site et génère un contenu unique, "
+"adapté à votre projet."
+
+#: core/Wizard/config/AIWizard.php:24 core/Wizard/config/DefaultWizard.php:28
+msgid "Photography"
+msgstr "La photographie"
+
+#: core/Wizard/config/AIWizard.php:20 core/Wizard/config/AIWizard.php:35
+#: core/Wizard/config/AIWizard.php:54 core/Wizard/config/AIWizard.php:63
+#: core/Wizard/config/AIWizard.php:72 core/Wizard/config/DefaultWizard.php:24
+#: core/Wizard/config/DefaultWizard.php:43
+#: core/Wizard/config/DefaultWizard.php:63
+#: core/Wizard/config/DefaultWizard.php:76
+#: core/Wizard/config/DefaultWizard.php:90 core/Wizard/config/EddWizard.php:21
+#: core/Wizard/config/EddWizard.php:32 core/Wizard/config/WooWizard.php:20
+#: core/Wizard/config/WooWizard.php:30 core/Wizard/config/WooWizard.php:40
+msgid "Previous Step"
+msgstr "Étape précédente"
+
+#: core/Wizard/config/AIWizard.php:19 core/Wizard/config/AIWizard.php:34
+#: core/Wizard/config/DefaultWizard.php:23
+#: core/Wizard/config/DefaultWizard.php:40
+msgid "Proceed"
+msgstr "Procéder"
+
+#: core/Wizard/config/AIWizard.php:64 core/Wizard/config/DefaultWizard.php:77
+#: core/Wizard/config/EddWizard.php:22 core/Wizard/config/WooWizard.php:31
+msgid "Recommended useful functionality for your site!"
+msgstr "Fonctionnalité utile recommandée pour votre site !"
+
+#: core/Wizard/config/AIWizard.php:25 core/Wizard/config/DefaultWizard.php:29
+msgid "Restaurant"
+msgstr "Restaurant"
+
+#. Author of the plugin
+msgid "SiteGround"
+msgstr ""
+
+#. Name of the plugin
+msgid "SiteGround Central"
+msgstr ""
+
+#: core/Wizard/config/AIWizard.php:12 core/Wizard/config/DefaultWizard.php:12
+#: core/Wizard/config/EddWizard.php:12 core/Wizard/config/WooWizard.php:12
+msgid "Start Now"
+msgstr "Commencez maintenant"
+
+#: core/Wizard/config/AIWizard.php:95 core/Wizard/config/DefaultWizard.php:122
+#: core/Wizard/config/EddWizard.php:57 core/Wizard/config/WooWizard.php:63
+msgid "The installation is not completed"
+msgstr "L'installation n'est pas terminée"
+
+#: core/Activator/Activator.php:25
+msgid "The WordPress Starter plugin requires PHP version 5.6 or above."
+msgstr "Le plugin WordPress Starter nécessite PHP version 5.6 ou supérieure."
+
+#. Description of the plugin
+msgid ""
+"This plugin is designed to provide you with an easy start of your next "
+"WordPress project!"
+msgstr ""
+"Ce plugin est conçu pour vous permettre de démarrer facilement votre "
+"prochain projet WordPress !"
+
+#: core/Wizard/config/AIWizard.php:27 core/Wizard/config/DefaultWizard.php:31
+msgid "Travel"
+msgstr "Voyage"
+
+#: core/Wizard/config/AIWizard.php:97 core/Wizard/config/DefaultWizard.php:124
+#: core/Wizard/config/EddWizard.php:59 core/Wizard/config/WooWizard.php:65
+msgid "Try again"
+msgstr "Essayer à nouveau"
+
+#: core/Wizard/config/AIWizard.php:45 core/Wizard/config/DefaultWizard.php:53
+msgid "Use a standard WordPress theme"
+msgstr "Utiliser un thème WordPress standard"
+
+#: core/Wizard/config/AIWizard.php:82 core/Wizard/config/AIWizard.php:100
+#: core/Wizard/config/DefaultWizard.php:107
+#: core/Wizard/config/DefaultWizard.php:128 core/Wizard/config/EddWizard.php:44
+#: core/Wizard/config/EddWizard.php:62 core/Wizard/config/WooWizard.php:50
+#: core/Wizard/config/WooWizard.php:68
+msgid "View Site"
+msgstr "Voir le site"
+
+#: core/Wizard/config/AIWizard.php:96 core/Wizard/config/DefaultWizard.php:123
+#: core/Wizard/config/EddWizard.php:58 core/Wizard/config/WooWizard.php:64
+msgid "We could not complete the installations."
+msgstr "Nous n'avons pas pu terminer les installations."
+
+#: core/Wizard/config/AIWizard.php:96 core/Wizard/config/DefaultWizard.php:123
+#: core/Wizard/config/EddWizard.php:58 core/Wizard/config/WooWizard.php:64
+msgid "We could not complete the installations. Try again later."
+msgstr "Nous n'avons pas pu terminer les installations. Réessayez plus tard."
+
+#: core/Wizard/config/AIWizard.php:56 core/Wizard/config/DefaultWizard.php:65
+#: core/Wizard/config/WooWizard.php:22
+msgid ""
+"We have gathered some of the best free and paid themes suitable for various "
+"personal and business projects to help your site look professional and "
+"awesome."
+msgstr ""
+"Nous avons rassemblé certains des meilleurs thèmes gratuits et payants "
+"adaptés à divers projets personnels et professionnels pour donner à votre "
+"site un aspect professionnel et génial."
+
+#: core/Wizard/config/AIWizard.php:79 core/Wizard/config/DefaultWizard.php:102
+#: core/Wizard/config/EddWizard.php:41 core/Wizard/config/WooWizard.php:47
+msgid ""
+"We have successfully completed the installation of the items you selected. "
+"You may now proceed to your WordPress dashboard and start managing your site."
+msgstr ""
+"Nous avons terminé avec succès l'installation des éléments que vous avez "
+"sélectionnés. Vous pouvez maintenant accéder à votre tableau de bord "
+"WordPress et commencer à gérer votre site."
+
+#: core/Wizard/config/WooWizard.php:13
+msgid ""
+"We know that learning WordPress and Woocommerce takes time. To give you a "
+"jump start, we have prepared a quick customization wizard that will assist "
+"you in choosing design and adding functionality to your site in a few easy "
+"steps."
+msgstr ""
+"Nous savons que l'apprentissage de WordPress et Woocommerce prend du temps. "
+"Pour vous donner un bon départ, nous avons préparé un assistant de "
+"personnalisation rapide qui vous aidera à choisir le design et à ajouter des "
+"fonctionnalités à votre site en quelques étapes simples."
+
+#: core/Wizard/config/EddWizard.php:13
+msgid ""
+"We know that learning WordPress takes time. To give you a jump start, we "
+"have prepared a quick customization wizard that will assist you in adding "
+"functionality to your site in a few easy steps."
+msgstr ""
+"Nous savons que l'apprentissage de WordPress prend du temps. Pour vous "
+"donner un bon départ, nous avons préparé un assistant de personnalisation "
+"rapide qui vous aidera à ajouter des fonctionnalités à votre site en "
+"quelques étapes simples."
+
+#: core/Wizard/config/AIWizard.php:14 core/Wizard/config/DefaultWizard.php:14
+msgid ""
+"We know that learning WordPress takes time. To give you a jump start, we "
+"have prepared a quick customization wizard that will assist you in choosing "
+"design and adding functionality to your site in a few easy steps."
+msgstr ""
+"Nous savons que l'apprentissage de WordPress prend du temps. Pour vous "
+"donner un bon départ, nous avons préparé un assistant de personnalisation "
+"rapide qui vous aidera à choisir le design et à ajouter des fonctionnalités "
+"à votre site en quelques étapes simples."
+
+#: core/Wizard/config/AIWizard.php:26 core/Wizard/config/DefaultWizard.php:30
+msgid "Wedding"
+msgstr "Mariage"
+
+#: core/Wizard/config/WooWizard.php:11
+msgid "Welcome to Your Woocommerce Site!"
+msgstr "Bienvenue sur votre site Woocommerce !"
+
+#: core/Wizard/config/AIWizard.php:11 core/Wizard/config/DefaultWizard.php:11
+#: core/Wizard/config/EddWizard.php:11
+msgid "Welcome to Your WordPress Site!"
+msgstr "Bienvenue sur votre site WordPress !"
+
+#: core/Wizard/config/AIWizard.php:18 core/Wizard/config/DefaultWizard.php:21
+msgid "What is your website topic?"
+msgstr "Quel est le sujet de votre site ?"
+
+#: core/Wizard/config/AIWizard.php:46 core/Wizard/config/DefaultWizard.php:54
+msgid ""
+"You can choose a WordPress theme from more than 30 professional templates in "
+"our free gallery."
+msgstr ""
+"Vous pouvez choisir un thème WordPress parmi plus de 30 modèles "
+"professionnels dans notre galerie gratuite."
